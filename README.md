@@ -12,4 +12,4 @@ This is a group project created for the First Module of Adalab's Web Development
 
 ## DEMO
 
-![demo](/images/flex-ladies.mov.gif)
+![demo](src/images/flex-ladies.mov.gif)
