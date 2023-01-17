@@ -1,6 +1,6 @@
 # Flex Ladies
 
-This is a group project created for the First Module of Adalab's Web Development Bootcamp.
+This is a group project created for the HTML & CSS (SASS) Module of Adalab's Web Development Bootcamp.
 
 ## Goals
 
